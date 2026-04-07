@@ -6,7 +6,7 @@ using System.IO;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Editor.UIBaker
+namespace UGT.HtmlToUGUI.Editor.UIBaker
 {
     [System.Serializable]
     public class UIDataNode

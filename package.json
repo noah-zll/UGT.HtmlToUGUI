@@ -3,8 +3,6 @@
     "version": "1.0.0",
     "displayName": "UGT.HtmlToUGUI",
     "description": "将 HTML 转换为 Unity UGUI 工具，原项目地址：https://github.com/StarrDream/HTML-to-UGUI-Baker。",
-    "unity": "2022.3",
-    "unityRelease": "f1",
     "keywords": [
         "Unity",
         "UGUI",

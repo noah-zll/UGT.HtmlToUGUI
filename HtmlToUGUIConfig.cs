@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-namespace Editor.UIBaker
+namespace UGT.HtmlToUGUI.Editor.UIBaker
 {
     /// <summary>
     /// UI 分辨率配置数据结构
